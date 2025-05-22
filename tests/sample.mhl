@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<hashlist xmlns="urn:ASC:MHL:v2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+    <creatorinfo>
+        <creationdate>2024-11-15T09:35:08Z</creationdate>
+        <hostname>romp-m2m.local</hostname>
+        <tool version="24.4.1671">OffShoot</tool>
+        <author>John Un</author>
+    </creatorinfo>
+    <processinfo>
+        <process>transfer</process>
+        <ignore>
+            <pattern>ascmhl/</pattern>
+            <pattern>ascmhl</pattern>
+            <pattern>.*</pattern>
+            <pattern>.DS_Store</pattern>
+        </ignore>
+    </processinfo>
+    <hashes>
+        <hash>
+            <path size="719573004" lastmodificationdate="2024-11-15T00:09:58Z">24Y11M14/24Y11M14A1S01T01.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:32:43Z">ec9d0cc3fd5db1ba</xxh64>
+        </hash>
+        <hash>
+            <path size="584654220" lastmodificationdate="2024-11-15T00:23:44Z">24Y11M14/24Y11M14A1S01T02.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:32:56Z">7cd0a9b97fe85ac9</xxh64>
+        </hash>
+        <hash>
+            <path size="884473728" lastmodificationdate="2024-11-15T00:35:28Z">24Y11M14/24Y11M14A1S01T03.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:33:15Z">aa4bc13a08dc07f6</xxh64>
+        </hash>
+        <hash>
+            <path size="1512220860" lastmodificationdate="2024-11-15T00:51:02Z">24Y11M14/24Y11M14A1S01T04.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:33:47Z">caf35439636b17fc</xxh64>
+        </hash>
+        <hash>
+            <path size="165051036" lastmodificationdate="2024-11-15T01:58:58Z">24Y11M14/24Y11M14A1S01T05.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:33:50Z">61319f6b106f5d1b</xxh64>
+        </hash>
+        <hash>
+            <path size="180186156" lastmodificationdate="2024-11-15T01:58:22Z">24Y11M14/24Y11M14A1S01T06.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:33:54Z">5e39388eb1b390bf</xxh64>
+        </hash>
+        <hash>
+            <path size="47573664" lastmodificationdate="2024-11-15T01:58:32Z">24Y11M14/24Y11M14A1S01T07.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:33:55Z">17eadb75ff58cb21</xxh64>
+        </hash>
+        <hash>
+            <path size="136222236" lastmodificationdate="2024-11-15T01:46:06Z">24Y11M14/24Y11M14A1S01T08.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:33:58Z">2fcd077bc278e48f</xxh64>
+        </hash>
+        <hash>
+            <path size="144870864" lastmodificationdate="2024-11-15T01:45:56Z">24Y11M14/24Y11M14A1S01T09.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:01Z">07cc456f21359a77</xxh64>
+        </hash>
+        <hash>
+            <path size="180906876" lastmodificationdate="2024-11-15T01:50:10Z">24Y11M14/24Y11M14A1S01T10.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:05Z">4bc7389a73526576</xxh64>
+        </hash>
+        <hash>
+            <path size="133195212" lastmodificationdate="2024-11-15T01:54:48Z">24Y11M14/24Y11M14A1S01T11.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:08Z">5da1ca93ab3e451d</xxh64>
+        </hash>
+        <hash>
+            <path size="110708748" lastmodificationdate="2024-11-15T02:00:52Z">24Y11M14/24Y11M14A1S01T12.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:11Z">ce905996fef0b5ec</xxh64>
+        </hash>
+        <hash>
+            <path size="116474508" lastmodificationdate="2024-11-15T02:47:58Z">24Y11M14/24Y11M14A1S01T13.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:13Z">bae6c8bde14ba3cd</xxh64>
+        </hash>
+        <hash>
+            <path size="526564188" lastmodificationdate="2024-11-15T02:59:56Z">24Y11M14/24Y11M14A1S03T01.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:24Z">f72e7ec273ed9de1</xxh64>
+        </hash>
+        <hash>
+            <path size="73087164" lastmodificationdate="2024-11-15T03:00:34Z">24Y11M14/24Y11M14A1S03T02.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:26Z">ecd2386eeef20670</xxh64>
+        </hash>
+        <hash>
+            <path size="271717584" lastmodificationdate="2024-11-15T03:03:02Z">24Y11M14/24Y11M14A1S03T03.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:32Z">4a7ec82373ae67ba</xxh64>
+        </hash>
+        <hash>
+            <path size="178023996" lastmodificationdate="2024-11-15T03:09:46Z">24Y11M14/24Y11M14A1S03T04.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:36Z">e939533b496e4331</xxh64>
+        </hash>
+        <hash>
+            <path size="534059664" lastmodificationdate="2024-11-15T03:15:32Z">24Y11M14/24Y11M14A1S03T05.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:34:47Z">ffacbeee2b3b6cab</xxh64>
+        </hash>
+        <hash>
+            <path size="805771116" lastmodificationdate="2024-11-15T03:29:00Z">24Y11M14/24Y11M14A1S03T06.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:35:04Z">37db0b140b221197</xxh64>
+        </hash>
+        <hash>
+            <path size="3089" lastmodificationdate="2024-11-15T03:32:32Z">24Y11M14/241115_24Y11M14_1.CSV</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:35:04Z">f0093afa7cac835f</xxh64>
+        </hash>
+        <hash>
+            <path size="138672684" lastmodificationdate="2024-11-15T00:27:28Z">FALSETAKES/24Y11M14A1S01T03.wav</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:35:07Z">9e540fbebba47fa5</xxh64>
+        </hash>
+        <hash>
+            <path size="105" lastmodificationdate="2024-11-15T03:31:28Z">SOUNDDEV/SDINFO.JSON</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:35:08Z">35e55240a8ba8a65</xxh64>
+        </hash>
+        <hash>
+            <path size="11765" lastmodificationdate="2024-11-15T03:22:04Z">SOUNDDEV/TAKELIST.JSON</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:35:08Z">50f201231604be20</xxh64>
+        </hash>
+        <hash>
+            <path size="11019" lastmodificationdate="2024-11-15T03:11:00Z">SOUNDDEV/TAKELIST_OLD.JSON</path>
+            <xxh64 action="original" hashdate="2024-11-15T09:35:08Z">7429d3cb54b92368</xxh64>
+        </hash>
+    </hashes>
+</hashlist>
