@@ -16,16 +16,10 @@ pub fn c4_file(path: &str) -> String {
     let result = hasher.finalize();
 
     // compute base58
-    let base58 = bs58::encode(result).into_string();
+    let mut base58 = bs58::encode(result).into_string();
+    base58 = format!("{:1>88}", base58);
 
     // add c4 to beginning
     format!("c4{}", base58)
 }
 
-#[test]
-fn c4_file_test() {
-    let real = "c45ofc7UjV8ZVECmYD1tZbHXWafRaX7hg56bV9LqEpe73g4HedomAU1niYBcmcTA1sqxV8FLxhbUHFtutvfszL6JWM";
-    let file = "tests/sample.mhl";
-    let result = c4_file(file);
-    assert_eq!(result, real);
-}

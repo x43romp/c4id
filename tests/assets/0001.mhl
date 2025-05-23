@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hashlist version="2.0" xmlns="urn:ASC:MHL:v2.0">
+  <creatorinfo>
+    <creationdate>2025-05-22T20:46:50+00:00</creationdate>
+    <hostname>20dcb3a2ebe2</hostname>
+    <tool version="1.1">ascmhl</tool>
+  </creatorinfo>
+  <processinfo>
+    <process>in-place</process>
+    <roothash>
+      <content>
+        <xxh128 hashdate="2025-05-22T20:46:50.672155+00:00">9dcdd08dba0f4fbdb8cf49428365173d</xxh128>
+      </content>
+      <structure>
+        <xxh128 hashdate="2025-05-22T20:46:50.672155+00:00">1982996ee7d0f26a1b8f6f8999d586f3</xxh128>
+      </structure>
+    </roothash>
+    <ignore>
+      <pattern>.DS_Store</pattern>
+      <pattern>ascmhl</pattern>
+      <pattern>ascmhl/</pattern>
+      <pattern>.git</pattern>
+      <pattern>.gitignore</pattern>
+    </ignore>
+  </processinfo>
+  <hashes>
+    <hash>
+      <path size="9840497" lastmodificationdate="2025-03-02T08:08:10+00:00">10MB</path>
+      <xxh128 action="original" hashdate="2025-05-22T20:46:50.649122+00:00">eb21d7ea72287cc59fcc2eee6aab1881</xxh128>
+    </hash>
+    <hash>
+      <path size="58728831" lastmodificationdate="2022-11-13T13:48:14+00:00">50MB-3f82-cab7-8049-c267</path>
+      <xxh128 action="original" hashdate="2025-05-22T20:46:50.670219+00:00">c267ea3a39f153b27e1295e72f576eba</xxh128>
+    </hash>
+    <hash>
+      <path size="830" lastmodificationdate="2025-05-22T20:45:54+00:00">data_md5.mhl</path>
+      <xxh128 action="original" hashdate="2025-05-22T20:46:50.670751+00:00">035385a6b96295bf901079777e4d041e</xxh128>
+    </hash>
+    <hash>
+      <path size="818" lastmodificationdate="2025-05-22T20:46:02+00:00">data_xh.mhl</path>
+      <xxh128 action="original" hashdate="2025-05-22T20:46:50.671162+00:00">fda2313c1dab6a2413ff7b5e539a875e</xxh128>
+    </hash>
+    <hash>
+      <path size="821" lastmodificationdate="2025-05-22T07:36:07+00:00">legacy_01.mhl</path>
+      <xxh128 action="original" hashdate="2025-05-22T20:46:50.671565+00:00">df00b731c5ab11cc220a3f1ebab72c9b</xxh128>
+    </hash>
+    <hash>
+      <path size="7060" lastmodificationdate="2025-05-22T07:28:04+00:00">legacy_02.mhl</path>
+      <xxh128 action="original" hashdate="2025-05-22T20:46:50.671951+00:00">e41ec38b8b9a4cb0069f6921ded8a043</xxh128>
+    </hash>
+  </hashes>
+</hashlist>
